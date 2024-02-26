@@ -38,7 +38,7 @@ This mod was made using `HarmonyX`, a fork of `Harmony2` from `BepInEx`. I stron
 
 Other mods I've made:
 - Shardpunk:
-    - [Shardpunk-BiggerTeam](https://github.com/remyCases/Shardpunk-BiggerTeam)
+    - [Shardpunk-Faster](https://github.com/remyCases/Shardpunk-Faster)
 
 - Stoneshard:
     - [Character Creation](https://github.com/remyCases/CharacterCreator)
