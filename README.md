@@ -37,7 +37,11 @@ This mod was made using `HarmonyX`, a fork of `Harmony2` from `BepInEx`. I stron
 ## See also
 
 Other mods I've made:
+- Shardpunk:
+    - [Shardpunk-BiggerTeam](https://github.com/remyCases/Shardpunk-BiggerTeam)
+
 - Stoneshard:
+    - [Character Creation](https://github.com/remyCases/CharacterCreator)
     - [Speedshard_Core](https://github.com/remyCases/SpeedshardCore)
     - [Speedshard_Sprint](https://github.com/remyCases/SpeedshardSprint)
     - [Speedshard_Backpack](https://github.com/remyCases/SpeedshardBackpack)
